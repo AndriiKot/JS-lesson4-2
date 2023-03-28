@@ -41,7 +41,12 @@ const amount_new4 = max_v2(2,3)
 
 const amount_new5 = max_v3(2,3)
 
-console.log(amount,amount_new1,amount_new2,amount_new3,amount_new4,amount_new5); 
+// Variation 6
+  const max_v4 = (a,b) => a + b;
+
+const amount_new6 = max_v4(2,3);
+
+console.log(amount,amount_new1,amount_new2,amount_new3,amount_new4,amount_new5,amount_new6); 
 
 
 
