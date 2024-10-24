@@ -1,1 +1,3 @@
 # Pattern ECMAScript
+
+## [Singleton]()
